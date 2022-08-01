@@ -1,9 +1,9 @@
 """
-Simple JPG to PNG converter made for 
-Complete Python Developer in 2022: Zero to Mastery class
+Simple JPG to PNG converter made for
+Complete Python Developer in 2022: Zero to Mastery class.
 Takes two system arguments:
-target_dir - folder with jpg files to be converted
-receiving_dir - folder to send new png files
+/target_dir - folder with jpg files to be converted
+/receiving_dir - folder to send new png files
 """
 
 import sys
